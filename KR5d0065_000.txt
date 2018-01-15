@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
-
 <md:KR5d0065_HFL_000-001a>¶
 <pb:KR5d0065_SBCK_000-1a>
 伊川擊壤集序¶
@@ -66,6 +65,7 @@
 伊川擊壤集時有宋治平丙午中秋日也¶¶¶¶¶¶
 伊川擊壤集序
 <pb:KR5d0065_SBCK_000-4a>
+# ?
 予家食時手録康節先生首尾吟
 二十余首讀之欣然自得及登進士
 扵监察御史晋陽王濬家淂擊壌
