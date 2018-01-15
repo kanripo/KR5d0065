@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
-<pb:KR5d0065_SBCK_016-16a>
 <md:KR5d0065_HFL_017-001a>¶
 <pb:KR5d0065_SBCK_017-1a>
 伊川擊壤集卷之十七
@@ -322,3 +321,4 @@
 量自知非飲流少日何由䏻強此况今¶年老雪
 堆頭¶¶¶¶
 伊川擊壤集卷之十七
+<md:KR5d0065_HFL_017-015b>¶

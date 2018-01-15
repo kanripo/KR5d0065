@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 19
-¶¶¶¶¶¶
 <md:KR5d0065_HFL_019-001a>¶
 <pb:KR5d0065_SBCK_019-1a>
 伊川擊壤集卷之十九
@@ -326,3 +325,4 @@
 生于太平世長于太平世老于太平世死于¶太
 平世客問年幾何六十有七歳俯仰天地¶間浩
 然無所愧<md:KR5d0065_HFL_019-016a>¶伊川擊壤集卷之十九
+<md:KR5d0065_HFL_019-016b>¶<pb:KR5d0065_SBCK_019-16b>

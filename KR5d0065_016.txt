@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
-¶¶
 <md:KR5d0065_HFL_016-001a>¶
 <pb:KR5d0065_SBCK_016-1a>
 伊川擊壤集卷之十六
@@ -317,3 +316,4 @@
 不憂不憂縁不動多⬤爲多求年老人常<md:KR5d0065_HFL_016-015b>¶事如
 何不白頭¶¶¶¶¶¶¶¶¶
 伊川擊壌集卷之十六
+<pb:KR5d0065_SBCK_016-16a>

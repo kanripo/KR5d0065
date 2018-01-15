@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
-¶
 <md:KR5d0065_HFL_008-001a>¶
 <pb:KR5d0065_SBCK_008-1a>
 伊川擊壤集卷之八
@@ -283,3 +282,4 @@
 庵後庵前盡植花花開畨次四時好主人事<md:KR5d0065_HFL_008-013b>¶簡
 常燕休不信⬤華能撰老¶¶¶¶
 伊川擊壤集卷之八
+<pb:KR5d0065_SBCK_008-14b>

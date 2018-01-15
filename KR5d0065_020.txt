@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
-<md:KR5d0065_HFL_019-016b>¶<pb:KR5d0065_SBCK_019-16b>
 <md:KR5d0065_HFL_020-001a>¶
 <pb:KR5d0065_SBCK_020-1a>
 伊川擊壤集卷之二十
@@ -615,6 +614,7 @@
 伊川擊壌集卷之二十
 
 <pb:KR5d0065_SBCK_021-1a>
+# SB1_0885-158.png
 康節先生伊川擊壤集後序
 聖人不作而士溺於成俗忽不自知日入於卑近
 有能⬤然拔起追古人於⬤千百年之上獨與
@@ -664,6 +664,7 @@
 <pb:KR5d0065_SBCK_021-3b>
 
 <pb:KR5d0065_SBCK_022-1a>
+# SB1_0885-152.png
 集外詩
 　　　　過比干墓
 精誠皦於日發出爲忠辭方寸巳盡破獨夫猶
