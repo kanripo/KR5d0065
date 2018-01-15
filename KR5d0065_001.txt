@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
-
 <md:KR5d0065_HFL_001-001a>¶
 <pb:KR5d0065_SBCK_001-1a>
 伊川擊壤集卷之一¶
@@ -73,6 +72,7 @@
 無管夷吾令人重歔欷廣陌⬤¶塵合中州胡馬
 嘶龍光射牛斗日影化虹蜺¶闢草來洛汭墾田
 <pb:KR5d0065_SBCK_001-4a>
+# image missing
 趨江湄二百有四年方駕¶而並馳東晋分南尾
 時或産靈芝凡經五改¶命至陳卒昌隋國破西
 風暮城荒春草萋長¶江空滿目行客浪(一作/淚)沾
